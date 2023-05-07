@@ -12,8 +12,5 @@ As the functions are Slash commands, the usage should be self-explanatory.
 6) Commit die
 
 # Issues
-- Some emotes in commands (For example, the custom emotes in certain `/f1` responses) won't show properly because your new instance of the bot won't be in the same servers as my original instance. Replace them with generic emotes or ones of your own choosing.
-
-- Not well commented but what do you expect.
 
 - Some functions could be slightly buggy. If it's something major that completely makes the functions unusable, let me know.
